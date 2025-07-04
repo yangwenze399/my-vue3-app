@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue' // 引入 HelloWorld 组件
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" /> <!-- 使用 HelloWorld 组件并传递 msg 属性 -->
+  <!-- 更新提交 -->
 </template>
 
 <style scoped>
